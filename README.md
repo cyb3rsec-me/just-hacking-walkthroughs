@@ -6,7 +6,7 @@ A personal collection of red team and penetration testing lab walkthroughs from 
 
 ## 🚀 Why This Exists
 
-I'm Dev Thakur ([@cyb3rsec-me](https://github.com/cyb3rsec-me)), a red teamer and cybersecurity learner with a passion for offensive security.
+I just love solving challenges ([@cyb3rsec-me](https://github.com/cyb3rsec-me)), a red teamer and cybersecurity learner with a passion for offensive security.
 
 > My PC was filling up with dozens of labs, writeups, screenshots, and tools I used to learn and grow.  
 > Rather than risk losing it all, I’m dumping my progress here — raw, real, and evolving.
