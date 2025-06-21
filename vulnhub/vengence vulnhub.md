@@ -1,0 +1,10 @@
+IP :  
+
+OS: UBUNTU 20.04.22
+
+
+
+OPEN_PORTS:
+
+
+
